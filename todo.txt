@@ -1,0 +1,14 @@
+model adequacy checking
+	residual analysis
+	outlier detection
+	lack of fit test
+transformations
+	box-cox
+	power of regressor
+leverage and influence
+variable selection
+	all possible regressions
+multicollinearity analysis
+validation
+	PRESS statistic
+	cross validation
